@@ -1,0 +1,15 @@
+{
+  "name": "jsaqa_3",
+  "version": "1.0.0",
+  "description": "playwright test",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright"
+      },
+  "author": "Roman Khabarov",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1",
+    "playwright": "^1.12.3"
+  }
+}
